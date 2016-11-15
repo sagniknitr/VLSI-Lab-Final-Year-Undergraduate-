@@ -1,0 +1,5 @@
+NeT "a" loc = "H18";
+NeT "b" loc = "L14";
+NeT "c" loc = "L13";
+NeT "sum" loc = "F9";
+NeT "carry" loc = "E9";

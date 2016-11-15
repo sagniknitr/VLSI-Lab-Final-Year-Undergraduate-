@@ -1,0 +1,12 @@
+NeT "bcd(3)" loc = "N17";
+NeT "bcd(2)" loc = "H18";
+NeT "bcd(1)" loc = "L14";
+NeT "bcd(0)" loc = "L13";   
+
+Net "seg(6)" loc = "F9";
+Net "seg(5)" loc = "E9";
+Net "seg(4)" loc = "D11";
+Net "seg(3)" loc = "C11";
+Net "seg(2)" loc = "F11";
+Net "seg(1)" loc = "E11";
+Net "seg(0)" loc = "E12";
